@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Perthread cache (tcache)에서의 UAF와 DFB"
-summary: "힙 오버플로우 취약점 연구"
+summary: "Use-After-Free and Double Free Bug in perthread cache"
 author: david232818
 date: '2022-09-07 10:40:23 +0900'
 category: ['learning']
 # tags: 
 thumbnail: /assets/img/posts/default.png
-keywords: heap, overflow
+keywords: UAF, DFB, perthread cache
 usemathjax: false
 permalink: /blog/Heap_overflow/
 ---
